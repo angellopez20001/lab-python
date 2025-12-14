@@ -1,0 +1,50 @@
+Ejecutando el notebook con 10000000 elementos
+Time taken by reduction operation: 0.0399019718170166 seconds
+34.5 ms ± 36.2 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+ 	 Computing the sum of numbers in the range [0, value): 499999500000
+
+El numero total sumado es de 49999995000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 0.2743339538574219 segundos
+276 ms ± 384 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El tiempo de ejecucion de la suma de la lista por funcion sum es de: 0.06146740913391113 segundos
+61.4 ms ± 14.4 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+El numero total sumado es de 49999995000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 0.6324207782745361 segundos
+609 ms ± 3.71 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El tiempo de ejecucion de la suma de la lista de numpy por funcion sum es de: 0.003665924072265625 segundos
+519 ms ± 1.65 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El numero total sumado es de 49999995000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 0.332042932510376 segundos
+5.65 ms ± 3.19 μs per loop (mean ± std. dev. of 2 runs, 100 loops each)
+El tiempo de ejecucion de la suma de la lista de numpy por funcion sum es de: 0.12103986740112305 segundos
+507 ms ± 3.33 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	0m13.995s
+user	0m13.670s
+sys	0m0.174s
+Ejecutando el notebook con 100000000 elementos
+Time taken by reduction operation: 0.03585529327392578 seconds
+33 ms ± 25.7 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+
+ 	 Computing the sum of numbers in the range [0, value): 499999500000
+
+El numero total sumado es de 4999999950000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 2.687405586242676 segundos
+2.73 s ± 17.9 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El tiempo de ejecucion de la suma de la lista por funcion sum es de: 0.6138083934783936 segundos
+614 ms ± 557 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El numero total sumado es de 4999999950000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 6.615528106689453 segundos
+6.12 s ± 28.3 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El tiempo de ejecucion de la suma de la lista de numpy por funcion sum es de: 0.03662109375 segundos
+5.4 s ± 4.64 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+El numero total sumado es de 4999999950000000
+El tiempo de ejecucion de la suma de la lista por bucle for es de: 0.8066258430480957 segundos
+58 ms ± 12 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+El tiempo de ejecucion de la suma de la lista de numpy por funcion sum es de: 0.15503907203674316 segundos
+5.36 s ± 15.6 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	1m27.220s
+user	1m26.165s
+sys	0m0.842s
