@@ -1,0 +1,17 @@
+Ejecutando el notebook
+
+ 	 Computing pi in serial: 
+
+	 For 1000000 trials, pi = 3.142108
+
+389 ms ± 1.92 ms per loop (mean ± std. dev. of 3 runs, 1 loop each)
+
+ 	 Computing pi in serial: 
+
+	 For 1000000 trials, pi = 3.140528
+
+17.1 ms ± 3.78 μs per loop (mean ± std. dev. of 3 runs, 100 loops each)
+
+real	0m9.617s
+user	0m8.407s
+sys	0m1.064s
